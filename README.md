@@ -11,3 +11,6 @@ This is an exercise website
 ## About Me:
 Name: **Luhur Adi**  
 DOB: _8 August 1992_
+
+
+## Future Plans
