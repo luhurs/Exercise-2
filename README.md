@@ -10,4 +10,4 @@ This is an exercise website
 
 ## About Me:
 Name: **Luhur Adi**  
-DOB: 8 August 1992
+DOB: _8 August 1992_
